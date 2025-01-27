@@ -1,0 +1,27 @@
+﻿This project contains code originally developed by Idaho National Laboratory (INL):
+
+Original Project URL:
+https://github.com/IdahoLabUnsupported/Wetlands_Geoprocessor
+
+Original License:
+Licensed under the GNU Lesser General Public License (LGPL) 2.1
+
+Copyright Notice:
+© 2024 Battelle Energy Alliance, LLC
+ALL RIGHTS RESERVED
+
+Prepared by Battelle Energy Alliance, LLC under Contract No. DE-AC07-05ID14517 with the U.S. Department of Energy.
+
+Modifications in This Project
+This project, wetland_geoprocessor_open_source.py, includes modifications made by Cleve Davis after employment with INL. The modified code 
+is distributed under the GNU Lesser General Public License (LGPL) 2.1.
+
+Modifications by Cleve Davis:
+Removed dependency on proprietary libraries (e.g., arcpy) to make the source code fully open source.
+General refactoring for improved usability and compatibility with open-source environments.
+
+Disclaimer
+The original notice from INL applies to the code distributed as part of the original project. The modifications made by Cleve Davis 
+are distributed in compliance with the LGPL and are not endorsed by INL or the U.S. Department of Energy.
+
+Author of Modifications: Cleve Davis, clevebdavis@gmail.com
